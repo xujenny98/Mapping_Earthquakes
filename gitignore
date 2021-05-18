@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 config.js
-Earthquakes_Challenge/static/js/config.js
+Simple_map/static/js/config.js
 
